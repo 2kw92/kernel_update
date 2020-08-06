@@ -5,7 +5,7 @@ MACHINES = {
               # VM box
               :box_name => "centos/7",
               # VM CPU count
-              :cpus => 3,
+              :cpus => 2,
               # VM RAM size (Mb)
               :memory => 1024,
               # networks
